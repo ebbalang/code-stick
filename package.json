@@ -1,6 +1,6 @@
 {
   "name": "code-stick",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "Plug in a USB. Get an offline AI coding agent on any laptop - Windows, macOS, Linux. opencode + Ollama, pre-built for 5 targets, zero install on the host.",
   "main": "src/index.ts",
   "scripts": {
